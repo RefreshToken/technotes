@@ -1,5 +1,5 @@
 # Technotes
 
-Notes about varius technologies
+Notes about various technologies
 
 [Oauth](oauth2.md)
