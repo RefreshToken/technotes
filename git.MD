@@ -10,3 +10,6 @@ git rebase master
 git push -f
 
 ```
+### Graph
+
+git log --graph --all --decorate --oneline
