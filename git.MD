@@ -15,3 +15,11 @@ git push -f
 ```
 git log --graph --all --decorate --oneline
 ```
+
+### Git remote
+
+```
+git remote -v
+```
+
+
